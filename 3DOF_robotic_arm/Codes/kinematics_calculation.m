@@ -1,0 +1,31 @@
+clear
+clc
+close all
+
+% Use DH Table
+
+syms theta1 theta2 theta3 l1 l2 x y z
+T01 = [cos(theta1) 0             -sin(theta1)      0;
+       sin(theta1) 0             -cos(theta1)      0;
+       0          -1              0                0;
+       0           0              0                1];
+
+T12 = [cos(theta2) -sin(theta2)   0    l1*cos(theta2);
+       sin(theta2)  cos(theta2)   0    l1*sin(theta2);
+       0            0             1    0;
+       0            0             0    1];
+
+T23 = [cos(theta3) -sin(theta3)   0    l2*cos(theta3);
+       sin(theta3)  cos(theta3)   0    l2*sin(theta3);
+       0            0             1    0;
+       0            0             0    1];
+
+T = T01 * T12 * T23 % forward kinematics matrix
+x = T(1, 4);
+y = T(2, 4);
+z = T(3, 4);
+FK = [x,y,z]
+
+
+
+
