@@ -1,15 +1,15 @@
 # PAP
 This is a 3DOF pick and place (PAP) serial manipulator which can be controlled in cartesian and in joint space through an android application developed using MIT app inventor. 
-The end-effector implements a double-rack and pinion mechanism for grasping.
+<br>The end-effector implements a double-rack and pinion mechanism for grasping.</br>
 
 **Utilities**
 <br>Links  - 1" PVC pipes</br>
-Joint connects and end effector parts - 3D pinted (PLA)
-Joint ACtuation - MG996R servo motor
-End-Effector Actuation - SG90 Servo Motor
-Microcontroller - Nodemcu 1.0 12E
+<br>Joint connects and end effector parts - 3D pinted (PLA)</br>
+<br>Joint ACtuation - MG996R servo motor</br>
+<br>End-Effector Actuation - SG90 Servo Motor</br>
+<br>Microcontroller - Nodemcu 1.0 12E</br>
 
-Here is the enf-effector (Designed in Autodesk Fusion 360)
+<br>Here is the enf-effector (Designed in Autodesk Fusion 360)</br>
 <img width="409" alt="image" src="https://github.com/SIDDHARTH-S-001/PAP/assets/73553742/f65edb8c-74d8-4278-b9f8-2c5d15703337">
 <img width="349" alt="image" src="https://github.com/SIDDHARTH-S-001/PAP/assets/73553742/6e1eb7d9-858d-41c0-ba16-ba3a209f419c">
 The final design of the complete Robotic Arm
