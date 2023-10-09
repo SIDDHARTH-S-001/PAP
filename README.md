@@ -21,6 +21,6 @@ This is a **3DOF pick and place (PAP)** serial manipulator which can be controll
 <br>app_for_nodemcu_1st_attempt - (Joint Space Control)</br>
 <br><img width="269" alt="image" src="https://github.com/SIDDHARTH-S-001/PAP/assets/73553742/bca0f7a0-5f00-4fa4-be51-6d83ad695e75"></br>
 <br>PAP_IK_Final - (Joint Space & Cartesian Space Control)</br>
-<br><img width="273" alt="image" src="https://github.com/SIDDHARTH-S-001/PAP/assets/73553742/78909c62-3989-4700-9ac5-cf29f11e63bd"></br>
+<br><img width="272" alt="image" src="https://github.com/SIDDHARTH-S-001/PAP/assets/73553742/1d14b7ed-1851-4dae-b47a-abbaacb9a945"></br>
 
 
