@@ -11,9 +11,9 @@ This is a 3DOF pick and place (PAP) serial manipulator which can be controlled i
 
 <br>Here is the enf-effector (Designed in Autodesk Fusion 360)</br>
 <img width="409" alt="image" src="https://github.com/SIDDHARTH-S-001/PAP/assets/73553742/f65edb8c-74d8-4278-b9f8-2c5d15703337">
-<img width="349" alt="image" src="https://github.com/SIDDHARTH-S-001/PAP/assets/73553742/6e1eb7d9-858d-41c0-ba16-ba3a209f419c">
-The final design of the complete Robotic Arm
-<img width="511" alt="image" src="https://github.com/SIDDHARTH-S-001/PAP/assets/73553742/b6f67f28-df9c-49a8-b370-bda65de5ede2">
+<br><img width="349" alt="image" src="https://github.com/SIDDHARTH-S-001/PAP/assets/73553742/6e1eb7d9-858d-41c0-ba16-ba3a209f419c"></br>
+<br>The final design of the complete Robotic Arm</br>
+<br><img width="511" alt="image" src="https://github.com/SIDDHARTH-S-001/PAP/assets/73553742/b6f67f28-df9c-49a8-b370-bda65de5ede2"></br>
 
 Therer we many iterations for the android application
 Iteration 1 - 
