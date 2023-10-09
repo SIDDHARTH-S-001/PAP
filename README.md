@@ -5,8 +5,8 @@ This is a **3DOF pick and place (PAP)** serial manipulator which can be controll
 
 <h3>Utilities</h3>
 <br>Links - 1" PVC pipes</br>
-<br>Joint connects and end effector parts - 3D pinted (PLA)</br>
-<br>Joint ACtuation - MG996R servo motor</br>
+<br>Joint-connects and end effector parts - 3D pinted (PLA)</br>
+<br>Joint Actuation - MG996R servo motor</br>
 <br>End-Effector Actuation - SG90 Servo Motor</br>
 <br>Microcontroller - Nodemcu 1.0 12E</br>
 
