@@ -1,5 +1,5 @@
 # PAP
-This is a **3DOF pick and place (PAP)** serial manipulator which can be controlled in cartesian and in joint space through an android application developed using MIT app inventor. 
+This is a **3DOF pick and place (PAP)** serial manipulator which can be controlled through an android application. 
 <br>The end-effector implements a double-rack and pinion mechanism for grasping.</br>
 <br>The Robotic arm can comfortably handle a payload of 200g at its maximum extension.</br>
 
